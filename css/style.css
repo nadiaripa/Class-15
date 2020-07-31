@@ -1,0 +1,178 @@
+.underline {
+	width: 88px;
+	height: 4px;
+	background: #14a58c;
+	margin: 10px auto;
+}
+.underline2 {
+	width: 88px;
+	height: 4px;
+	background: #c8d9e5;
+	margin: 10px auto;
+}
+.underline3 {
+	width: 88px;
+	height: 4px;
+	background: #e5c37f;
+	margin: 10px auto;
+}
+.underline4 {
+	width: 88px;
+	height: 4px;
+	background: #dfe8ed;
+	margin: 10px auto;
+}
+header {
+	background: #87509c;
+	padding-top: 40px;
+	padding-bottom: 145px;
+}
+.menu a.logo {
+	color: #ffffff;
+}
+.menu ul {
+	float: right;
+	margin-top: 15px;
+}
+.menu ul li {
+	list-style: none;
+	float: left;
+}
+.menu ul li a {
+	color: #ffffff;
+	text-transform: uppercase;
+	padding: 10px 15px;
+}
+.menu ul li a:hover {
+	text-decoration: none;
+	background: #643a79;
+	border-radius: 5px;
+}
+.fornt-area {
+	padding-top: 140px;
+	text-align: center;
+}
+.fornt-area h1 {
+	color: #ffffff;
+	padding: 0 60px 60px 60px;
+}
+.fornt-area a {
+	color: #ffffff;
+	background: #eb7d4b;
+	padding: 25px 80px;
+	font-size: 18px;
+	text-transform: uppercase;
+}
+.service {
+	background: #17c2a4;
+	padding: 120px 0;
+	text-align: center;
+	color: #ffffff;
+}
+.service .service-header {
+	padding: 0 220px 75px 220px;
+}
+.service .service-header p{
+	font-size: 18px;
+}
+.service-body img {
+	padding-bottom: 60px;
+	height: 160px;
+}
+.service-body h3 {
+	text-transform: uppercase;
+	padding-bottom: 30px;
+}
+.service-body p {
+	padding: 0	20px;
+}
+.team {
+	background: #e7f1f8;
+	padding: 120px 0;
+	text-align: center;
+	color: #3c4761;
+}
+.team-body {
+	padding-top: 70px;
+}
+.team-body h3 {
+	font-size: 24px;
+	text-transform: uppercase;
+}
+.team-body h4 {
+	font-size: 16px;
+	color: #30bae7;
+	padding: 10px 0 20px 0;
+}
+.team-body p {
+	padding: 0	15px;
+}
+.team-body .circle {
+	width: 200px;
+	height: 200px;
+	background: #878787;
+	border-radius: 100%;
+	margin: 0 auto 40px auto;
+}
+.social-icon {
+	margin: 0 auto;
+	display: inline-block;
+}
+.social-icon a {
+	color: #ffffff;
+	font-size: 20px;	
+}
+.social-icon div {
+	width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background: #bdd1df;
+    float: left;
+    padding: 2px 0;
+    margin-right: 10px;
+}
+#skill {
+	background: #ffffff;
+	padding: 120px 0;
+	text-align: center;
+}
+.skill-header p {
+	padding: 0	200px;
+}
+.skill-body {
+	margin-top: 85px;
+}
+#portfolio {
+	background: #ffdd99;
+	padding: 120px 0;
+	text-align: center;
+}
+.portfolio-header p {
+	padding: 0	200px;
+}
+.portfolio-body .button {
+	margin-top: 35px;
+}
+.portfolio-body .button a {
+	background: #ebc985;
+	border-radius: 5px;
+	padding: 5px 20px;
+	color: #393939;
+	font-size: 18px;
+	margin-right: 10px;
+}
+.portfolio-body .button a.active {
+	background: #ffffff;
+}
+.portfolio-item img {
+	margin-top: 50px;
+}
+#portfolio .cta {
+	padding-top: 60px;
+}
+#portfolio .cta a{
+	background: #17c2a4;
+	color: #ffffff;
+	padding: 15px 40px;
+	border-bottom: 4px solid #14a58c;
+}
